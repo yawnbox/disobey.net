@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# <a rel="me" href="https://disobey.net/@DemocracyNow">Mastodon</a>
 
 import os
 import sys
